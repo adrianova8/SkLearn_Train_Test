@@ -21,4 +21,4 @@ _Familiarity with scientific programming through the SKLearn / Scikit Learn libr
 # LEVEL 3
 
  ## Exercise 3
- - Summarizes the new statistically and graphically generated columns
+ - Summarizes the new statistically and graphically generated columns.
