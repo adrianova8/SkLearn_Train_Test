@@ -16,7 +16,7 @@ _Familiarity with scientific programming through the SKLearn / Scikit Learn libr
  # LEVEL 2
   
  ## Exercise 2
-  - Apply some transformation process (standardize numerical data, create dummy columns, polynomials ...).
+  - Apply some transformation process (standardize numerical data, create dummy columns, polynomials...).
 
 # LEVEL 3
 
