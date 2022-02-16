@@ -1,6 +1,6 @@
 # S10 T01: Practicing with training and test sets
 
-**Target:**
+**Target:*
 *  Preprocessing
 *  Transformation
 *  Dummy Variable
